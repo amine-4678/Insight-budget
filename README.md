@@ -5,7 +5,7 @@ A modern personal finance web application for budgeting, expense tracking, savin
 
 ##  Dashboard Preview
 
-![Dashboard Preview](Images/dashboard-preview.png)
+![Dashboard Preview](imgs/dashboard-preview.png)
 
 ---
 
